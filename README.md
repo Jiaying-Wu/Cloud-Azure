@@ -1,0 +1,3 @@
+
+Note of Microsoft Azure
+=======================
