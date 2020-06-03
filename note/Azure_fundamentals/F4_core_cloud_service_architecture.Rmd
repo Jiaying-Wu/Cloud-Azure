@@ -1,0 +1,55 @@
+---
+title: "Core Cloud Services - Azure architecture and service guarantees"
+author: "Jiaying Wu"
+
+output: html_document
+---
+
+This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
+
+### Topic 1: Introduction
+
+
+
+### Topic 2: Understand Datacenters and Regions in Azure
+
+
+
+### Topic 3: Understand Geographies in Azure
+
+
+
+
+### Topic 4: Understand Availability Zones in Azure
+
+
+
+### Topic 5: Understand Region Pairs in Azure
+
+
+
+### Topic 6: Understand Service-Level Agreements for Azure
+
+
+
+### Topic 7: Compose SLAs across services
+
+
+
+
+
+
+### Topic 8: Improve your app reliability in Azure
+
+
+
+
+
+### Topic 9: Summary
+
+
+
+
+
+
+
