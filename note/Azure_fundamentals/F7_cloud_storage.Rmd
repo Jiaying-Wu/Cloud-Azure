@@ -1,0 +1,64 @@
+---
+title: "Core Cloud Services - Azure data storage options"
+author: "Jiaying Wu"
+output: html_document
+---
+
+This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
+
+### Topic 1: Introduction
+
+
+
+
+
+
+### Topic 2: Benefits of using Azure to store data
+
+
+
+
+
+
+
+### Topic 3: How Azure data storage can meet your business storage needs
+
+
+
+
+
+
+
+
+### Topic 4: Comparison between Azure data storage and on-premises storage
+
+
+
+
+
+
+### Topic 5: Knowledge check
+
+
+
+
+
+
+
+
+
+### Topic 6: Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
