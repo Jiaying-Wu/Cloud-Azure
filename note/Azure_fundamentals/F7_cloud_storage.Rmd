@@ -6,6 +6,8 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
 
+In this module, we'll explore the benefits of Azure data storage versus on-premises storage.
+
 ### Topic 1: Introduction
 
 Suppose you manage an online sales learning portal for your organization. The majority of your sales team is often in different geographical areas, so the online learning portal is an essential requirement. It's even more important as your organization continues to increase the skills and knowledge enhancement training for the sales staff.
