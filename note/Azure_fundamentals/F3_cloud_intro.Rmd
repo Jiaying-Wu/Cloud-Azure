@@ -6,6 +6,8 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
 
+Get started with Azure by creating and configuring your first website in the cloud.
+
 ### Topic 1: Introduction
 
 You've heard buzzwords about the cloud—scale, elasticity, microservices. Perhaps you've seen other companies be successful with the cloud and wondered how it could help you meet your business challenges or even grow your career. Did you know that more than 90% of Fortune 500 companies run on the Microsoft Cloud?

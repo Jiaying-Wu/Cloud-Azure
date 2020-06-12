@@ -6,6 +6,8 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
 
+The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.
+
 ### Topic 1: Introduction
 
 To create and use Azure services, you need an Azure subscription. When you sign up, an Azure subscription is created for you. It allows you to build and deploy cloud-based applications, use sophisticated artificial intelligence services, and extract essential insights from your data.

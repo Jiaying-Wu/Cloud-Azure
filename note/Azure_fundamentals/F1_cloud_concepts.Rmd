@@ -6,6 +6,8 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
 
+Explore the core concepts of cloud computing and how it can help your business.
+
 ### Topic 1: Introduction
 
 #### 1.1 Learning objectives

@@ -6,6 +6,8 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Azure fundamentals](https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/).
 
+Learn about governance and management in Azure services.
+
 ### Topic 1: Introduction
 
 Good IT governance involves planning your initiatives and setting priorities on a strategic level to help manage and prevent issues.
