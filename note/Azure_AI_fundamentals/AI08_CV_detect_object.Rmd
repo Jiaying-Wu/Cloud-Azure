@@ -1,0 +1,78 @@
+---
+title: <font size="6"> Detect objects in images with the Custom Vision service </font>
+author: "Jiaying Wu"
+output: html_document
+---
+
+This notebook is refer from the Microsoft resources: [Explore computer vision in Microsoft Azure](https://docs.microsoft.com/en-gb/learn/paths/explore-computer-vision-microsoft-azure/).
+
+### Module 3: Detect objects in images with the Custom Vision service
+
+Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.
+
+### Topic 1: Introduction
+
+*Object detection* is a form of machine learning based computer vision in which a model is trained to **recognize individual types of object in an image**, and to **identify their location in the image**.
+
+For example, consider the following image:
+
+![](https://docs.microsoft.com/en-gb/learn/wwl-data-ai/detect-objects-images-custom-vision/media/produce.png)
+
+An object detection model might be used to identify the individual objects in this image and return the following information:
+
+![](https://docs.microsoft.com/en-gb/learn/wwl-data-ai/detect-objects-images-custom-vision/media/produce-objects.png)
+
+Notice that an object detection model returns the following information:
+
+- The *class* of each object identified in the image.
+
+- The *probability score* of the object classification (which you can interpret as the confidence of the predicted class being correct)
+
+- The coordinates of a *bounding box* for each object.
+
+![](image/AI8_diff_classify_detect.png)
+
+#### 1.1 Uses of object detection
+
+Some sample applications of object detection include:
+
+- Evaluating the safety of a building by looking for fire extinguishers or other emergency equipment.
+
+- Creating software for self-driving cars or vehicles with *lane assist* capabilities.
+
+- Medical imaging such as an MRI or x-rays that can detect known objects for medical diagnosis.
+
+
+### Topic 2: Get started with object detection on Azure
+
+
+
+
+
+
+
+
+### Topic 3: Exercise - Create an object detection solution
+
+
+
+
+
+
+### Topic 4: Knowledge check
+
+
+
+
+
+
+
+### Topic 5: Summary
+
+
+
+
+
+
+
+

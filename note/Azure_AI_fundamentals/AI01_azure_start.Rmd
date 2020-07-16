@@ -6,7 +6,9 @@ output: html_document
 
 This notebook is refer from the Microsoft resources: [Get started with artificial intelligence on Azure](https://docs.microsoft.com/en-gb/learn/paths/get-started-with-artificial-intelligence-on-azure/).
 
-With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.
+### Trophy 1: Get started with artificial intelligence on Azure
+
+Artificial Intelligence (AI) empowers amazing new solutions and experiences; and Microsoft Azure provides easy to use services to help you get started.
 
 ### Topic 1: Introduction to AI
 

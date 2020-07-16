@@ -1,10 +1,12 @@
 ---
-title: "Create a Clustering Model with Azure Machine Learning designer"
+title: <font size="5"> Create a Clustering Model with Azure Machine Learning designer </font>
 author: "Jiaying Wu"
 output: html_document
 ---
 
 This notebook is refer from the Microsoft resources: [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-gb/learn/paths/create-no-code-predictive-models-azure-machine-learning/).
+
+### Module 4: Create a Clustering Model with Azure Machine Learning designer
 
 Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.
 

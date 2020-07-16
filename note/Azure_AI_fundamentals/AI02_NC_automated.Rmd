@@ -1,16 +1,16 @@
 ---
-title: "Use automated machine learning in Azure Machine Learning"
+title: <font size="6"> Use automated machine learning in Azure Machine Learning </font>
 author: "Jiaying Wu"
 output: html_document
 ---
 
 This notebook is refer from the Microsoft resources: [Create no-code predictive models with Azure Machine Learning](https://docs.microsoft.com/en-gb/learn/paths/create-no-code-predictive-models-azure-machine-learning/).
 
-## Create no-code predictive models with Azure Machine Learning
+### Trophy 2: Create no-code predictive models with Azure Machine Learning
 
 Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code.
 
-### Use automated machine learning in Azure Machine Learning
+### Module 1: Use automated machine learning in Azure Machine Learning
 
 Training a machine learning model is an iterative process that requires time and compute resources. Automated machine learning can help make it easier.
 

@@ -1,5 +1,5 @@
 ---
-title: "Classify images with the Custom Vision service"
+title: <font size="6"> Classify images with the Custom Vision service </font>
 author: "Jiaying Wu"
 output: html_document
 ---
