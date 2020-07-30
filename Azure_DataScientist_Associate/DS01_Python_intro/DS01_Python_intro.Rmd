@@ -1,0 +1,259 @@
+---
+title: "What is Python?"
+output: html_document
+---
+
+This notebook is refer from the Microsoft resources: [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/).
+
+### Trophy 1: Take your first steps with Python
+
+Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using Python.
+
+In this learning path, you'll:
+
+- Write your first lines of Python code
+
+- Store and manipulate data to modify its type and appearance
+
+- Execute built-in functionality available from libraries of code
+
+- Add logic to your code to enable complex business functionality
+
+### Module 1: What is Python?
+
+A quick introduction to Python, programming languages, compilation, and the process of programming.
+
+### Topic 1: Introduction
+
+The Python programming language lets you build many types of programs like:
+
+- Business apps to capture, analyze, and process data.
+
+- Dynamic web apps that a web browser can access.
+
+- Games in both 2D and 3D.
+
+- Financial and scientific apps.
+
+- Cloud-based apps.
+
+- Mobile apps.
+
+As programming languages go, Python is relatively simple yet powerful. This combination likely has contributed to its enormous popularity. Beyond the programming language itself, Python boasts a wealth of libraries that can reduce complex tasks into a few lines of code.
+
+This module starts by explaining the most basic concepts to make sure you have a firm grasp on how programming works. We'll discuss:
+
+- The role of a programming language's syntax.
+
+- The need for compilation and interpretation.
+
+- The process of programming.
+
+- The tools you need to build your own software development environment.
+
+#### 1.1 What's the best way to learn Python?
+
+The best way to learn how to build Python programs is to write as much Python code as you can. Soon, you'll work through dozens of small code examples. When you get to that point, we'll encourage you to type along with the exercises. Completing the exercises and solving small coding challenges will help you learn more quickly.
+
+But first, we'll cover some high-level conceptual information. In the next module, we'll help you install and configure the tools you need to get started.
+
+After we help you get oriented, you'll start writing code. Continually practice and explore by completing exercises and challenges. These actions reinforce foundational concepts. You'll build on these concepts throughout your career.
+
+Let's start with the most basic question: what exactly is Python? To answer what question, you must understand how a programming language lets a human communicate instructions to a computer.
+
+#### 1.2 Learning objectives
+
+In this module, you'll learn:
+
+- What a programming language does.
+
+- Why Python is so popular.
+
+- Why Python is a great choice as your first programming language.
+
+- Why you must compile your code into a format that computers understand.
+
+- The process of programming.
+
+- What software tools you must install.
+
+#### 1.3 Prerequisites
+
+- None
+
+
+### Topic 2: What is programming?
+
+We'll start by talking about programming in general. What is a programming language? How does a programming language help you communicate commands to a computer?
+
+#### 2.1 Hardware vs. software
+
+Most of us understand that there are two sides to our computers and devices like phones and tablets: hardware and software.
+
+*Hardware* describes the physical components that accept input, process that input, and emit output. Hardware might include:
+
+- A central processing unit (CPU).
+
+- Random-access memory (RAM) for short-term storage.
+
+- A hard drive for long-term storage.
+
+- A screen.
+
+- A microphone.
+
+- Connector ports like headphone jacks and USB ports.
+
+*Software* describes the electronic instructions that tell the hardware what to do. Types of software include:
+
+- Operating systems that provide a foundation for device interaction.
+
+- Games.
+
+- Word processors.
+
+- Spreadsheets.
+
+- Web browsers.
+
+People often refer to software as *programs*.
+
+#### 2.2 What is a program?
+
+A program is a set of instructions that do computing tasks. These instructions are compiled into a format that a computer understands. The compiled instructions are initiated or *run* by a user. **The term user can mean either a human or another program**.
+
+The computer's CPU runs each instruction in the program line by line. The CPU:
+
+- Saves and retrieves information, which is in temporary or permanent storage.
+
+- Calculates and manipulates data.
+
+- Displays information on a screen.
+
+- Communicates with other programs via a network connection.
+
+Even the most basic program will do one or more of the following tasks:
+
+- Input - Input includes information:
+
+    - Accepted from a user typing on a keyboard or clicking on a user interface.
+
+    - Stored as data in a file.
+
+    - Communicated from a network connection.
+    
+- Processing - Processing includes:
+
+    - Performing logic.
+
+    - Calculation of mathematical formulas.
+    
+    - Other manipulation or calculation of input to produce new data.
+    
+- Output - Output includes information:
+
+    - Displayed on a screen to a user.
+
+    - Saved to a file.
+    
+    - Sent to another program via a network connection.
+    
+A program can be:
+
+- A fully self-enclosed app like a game, a text editor, or billing software.
+
+- A script like a sophisticated macro that executes inside another program to automate some functionality.
+
+- A combination of live code, equations, and data visualizations used in Jupyter notebooks.
+
+Python is frequently used for all of these purposes.
+
+Some programs, including many you'll build as we get started, require at most a dozen lines of code. But sophisticated programs like operating systems require tens of thousands or even a million lines of code.
+
+Some programs are small enough that a single software developer can build them. Others are so large and complex that dozens or even hundreds of developers build and maintain them. In that case, each developer works on some small part of the whole.
+
+##### What is programming?
+
+*Programming* is the act of writing instructions for a computer to create an app or script. Some people use different terms like *coding* or *developing* to describe programming.
+
+A *programmer* is someone who writes those instructions using a programming language like Python. Synonyms for programmer include *coder*, *software developer*, and *developer*.
+
+#### 2.3 What is a programming language?
+
+Programming languages like Python let you write instructions that you want a computer to carry out.
+
+Each programming language has a different syntax. But after you learn your first programming language and then attempt to learn another one, you'll quickly realize they all share many similar ideas.
+
+A programming language lets someone write instructions in a way that's readable and understandable by humans. The instructions you write in a programming language are called *source code* or just *code*.
+
+A software developer understands and modifies source code. But a computer can't understand or run source code. The source code must be compiled into a format that the computer understands. We'll talk about compilation, interpretation, and execution later in this module.
+
+#### 2.4 What is syntax?
+
+The *syntax* of a programming language includes keywords, operators, and grammar rules. Operators are special characters like parentheses and the equal sign. A simple line of Python code might follow a dozen different syntax rules and use several different operators.
+
+Many programming languages use English words and phrases as keywords. Python uses English words like **if**, **return**, **while**, and **import** as keywords. Fortunately, there are fewer than 40 keywords in Python, so you don't need to know English before you can start with Python.
+
+To become fluent in any language, you need to learn and practice new vocabulary and concepts. Learning a programming language is no exception. For any language, there's much to learn. Fortunately, each concept is simple on its own. Don't give up! You can learn it!
+
+#### 2.5 Why are there so many programming languages?
+
+There are dozens of different programming languages. Programmers have discovered that available languages don't always offer needed flexibility, control, and ease of use. So they decide to craft their own.
+
+Python was created to simplify software development by masking more complex interactions with the hardware. The tradeoff is that Python offers less control over those interactions. So Python might not be ideal for some processor-intensive apps.
+
+Other programming languages provide greater control over complex interactions with the hardware. If used properly, they can yield performance better than Python's. But they can be more difficult to understand. Many software apps don't require this degree of optimization to improve performance.
+
+#### 2.6 Should I learn Python first?
+
+With so many options, you might wonder if you're making the right choice by starting your programming career with Python.
+
+Python is a language friendly to beginners. Among other things, you'll learn how to:
+
+- Employ basic logic.
+
+- Create program structure.
+
+- Build expressions and statements.
+
+- Work with data.
+
+Many of the syntax elements and other concepts are similar for all programming languages. Starting with a language friendly to beginners is a great first step. Later, you can add more programming languages. You'll then focus on just those parts of the new languages that differ from Python.
+
+Furthermore, there's a strong demand for Python skills in a wide range of industries.
+
+Plenty of learning resources are available for Python. Resources include this Learning Path, videos, articles, and books. Python is also well supported. If you run into a problem, there are many communities of experienced developers who are willing to help you solve the problem.
+
+So yes, if you're looking to get started in programming, Python is a great choice.
+
+
+### Topic 3: What is compilation?
+
+
+
+
+
+### Topic 4: What is the process of programming?
+
+
+
+
+
+### Topic 5: Knowledge check
+
+
+
+
+
+### Topic 6: Summary
+
+
+
+
+
+
+
+```{r echo=FALSE, eval=FALSE, message=FALSE}
+rmarkdown::render(input = "DS01_Python_intro.Rmd", output_format = "github_document", output_file = "README.md")
+```
+
