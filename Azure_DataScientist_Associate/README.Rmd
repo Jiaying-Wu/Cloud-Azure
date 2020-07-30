@@ -13,12 +13,14 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Note of Microsoft Azure
+# Note of Azure Data Scientist Associate
 
-`Azure_fundamentals` contains the notes for Microsoft Azure Fundamentals.
+### Trophy 1: Take your first steps with Python
 
-`Azure_AI_fundamentals` contains the notes for Microsoft Azure AI Fundamentals (beta).
+`DS01_Python_intro` contains notes for Module 1: What is Python?.
 
-`Azure_DataScientist_Associate` contains the notes for Azure Data Scientist Associate.
+### Trophy 2: Create machine learning models
+
+### Trophy 3: Build AI solutions with Azure Machine Learning
 
 Notes are referenced from Microsoft.

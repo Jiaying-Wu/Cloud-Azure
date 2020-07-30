@@ -57,4 +57,4 @@ knitr::opts_chunk$set(
 
 `AI16_conversational_ai` contains notes for Module 16: Build a bot with QnA Maker and Azure Bot Service.
 
-
+Notes are referenced from Microsoft.

@@ -43,3 +43,5 @@ Note of Microsoft Azure AI Fundamentals (beta)
 ### Trophy 5: Explore conversational AI
 
 `AI16_conversational_ai` contains notes for Module 16: Build a bot with QnA Maker and Azure Bot Service.
+
+Notes are referenced from Microsoft.

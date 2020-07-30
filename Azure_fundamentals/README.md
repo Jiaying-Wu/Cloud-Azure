@@ -25,3 +25,5 @@ Note of Microsoft Azure Fundamentals
 `F11_azure_organize` contains notes for Module 11: Control and organize Azure resources with Azure Resource Manager.
 
 `F12_azure_cost` contains notes for Module 12: Predict costs and optimize spending for Azure.
+
+Notes are referenced from Microsoft.

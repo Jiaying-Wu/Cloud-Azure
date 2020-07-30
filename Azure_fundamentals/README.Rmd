@@ -39,4 +39,4 @@ knitr::opts_chunk$set(
 
 `F12_azure_cost` contains notes for Module 12: Predict costs and optimize spending for Azure.
 
-
+Notes are referenced from Microsoft.
