@@ -1,3 +1,4 @@
+# calories calculator
 print("Today's date?")
 date = input()
 print("Breakfast calories?")

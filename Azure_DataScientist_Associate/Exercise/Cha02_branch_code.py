@@ -1,3 +1,4 @@
+# Branch code with if, elif and else structure
 user_input = input("Would you like to continue? ")
 if user_input == "no" or user_input == "n":
     print("Exiting")
