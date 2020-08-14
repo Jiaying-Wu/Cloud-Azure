@@ -14,6 +14,8 @@ Note of Azure Data Scientist Associate
 
 `DS05_Python_string` contains notes for Module 5: Manipulate and format string data for display in Python.
 
+`DS06_Python_numeric` contains notes for Module 6: Perform mathematical operations on numeric data in Python.
+
 ### Trophy 2: Create machine learning models
 
 ### Trophy 3: Build AI solutions with Azure Machine Learning
