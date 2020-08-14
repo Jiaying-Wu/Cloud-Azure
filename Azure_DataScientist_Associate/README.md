@@ -16,6 +16,8 @@ Note of Azure Data Scientist Associate
 
 `DS06_Python_numeric` contains notes for Module 6: Perform mathematical operations on numeric data in Python.
 
+`DS07_Python_library` contains notes for Module 7: Import standard library modules to add features to Python programs.
+
 ### Trophy 2: Create machine learning models
 
 ### Trophy 3: Build AI solutions with Azure Machine Learning
