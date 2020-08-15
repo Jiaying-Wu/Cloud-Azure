@@ -3,7 +3,7 @@ Iterate through code blocks by using the while statement
 
 This notebook is refer from the Microsoft resources: [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/).
 
-### Module 7: Iterate through code blocks by using the while statement
+### Module 8: Iterate through code blocks by using the while statement
 
 Use the `while` statement and related Python code constructs to add looping logic to your programs.
 

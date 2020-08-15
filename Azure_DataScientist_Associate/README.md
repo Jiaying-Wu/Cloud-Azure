@@ -20,6 +20,8 @@ Note of Azure Data Scientist Associate
 
 `DS08_Python_while` contains notes for Module 8: Iterate through code blocks by using the while statement.
 
+`DS09_Python_list` contains notes for Module 9: Manage a sequence of data by using Python lists.
+
 ### Trophy 2: Create machine learning models
 
 ### Trophy 3: Build AI solutions with Azure Machine Learning
