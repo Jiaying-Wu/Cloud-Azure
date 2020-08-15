@@ -18,6 +18,8 @@ Note of Azure Data Scientist Associate
 
 `DS07_Python_library` contains notes for Module 7: Import standard library modules to add features to Python programs.
 
+`DS08_Python_while` contains notes for Module 8: Iterate through code blocks by using the while statement.
+
 ### Trophy 2: Create machine learning models
 
 ### Trophy 3: Build AI solutions with Azure Machine Learning
