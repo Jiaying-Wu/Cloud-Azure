@@ -22,6 +22,8 @@ Note of Azure Data Scientist Associate
 
 `DS09_Python_list` contains notes for Module 9: Manage a sequence of data by using Python lists.
 
+`DS10_Python_function` contains notes for Module 10: Create reusable functionality with functions in Python.
+
 ### Trophy 2: Create machine learning models
 
 ### Trophy 3: Build AI solutions with Azure Machine Learning

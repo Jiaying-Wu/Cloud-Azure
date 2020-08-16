@@ -711,7 +711,7 @@ This code is just one possible solution. As long as your result matched the outp
 
 If you succeeded, congratulations! Continue to the knowledge check in the next unit.
 
-![](../image/DS09_cha09_imp.png)
+![](../image/DS09_cha08_imp.png)
 
 ### Topic 6: Knowledge check
 
