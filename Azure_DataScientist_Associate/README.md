@@ -26,6 +26,8 @@ Note of Azure Data Scientist Associate
 
 ### Trophy 2: Create machine learning models
 
+`DS11_ML_data` contains notes for Module 11: Explore and analyze data with Python.
+
 ### Trophy 3: Build AI solutions with Azure Machine Learning
 
 ### Code example
