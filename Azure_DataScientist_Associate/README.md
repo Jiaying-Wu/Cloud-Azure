@@ -28,6 +28,8 @@ Note of Azure Data Scientist Associate
 
 `DS11_ML_data` contains notes for Module 11: Explore and analyze data with Python.
 
+`DS12_ML_regression` contains notes for Module 12: Train and evaluate regression models.
+
 ### Trophy 3: Build AI solutions with Azure Machine Learning
 
 ### Code example
