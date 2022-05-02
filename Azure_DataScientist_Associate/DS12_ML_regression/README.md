@@ -3,7 +3,7 @@ Train and evaluate regression models
 
 This notebook is refer from the Microsoft resources: [Create machine learning models](\https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/).
 
-### Module 1: Train and evaluate regression models
+### Module 2: Train and evaluate regression models
 
 Regression is a commonly used kind of machine learning for predicting numeric values.
 
@@ -103,4 +103,4 @@ When you've finished working through the notebook, return to this module and mov
 
 In this module, you learned how regression can be used to create a machine learning model that predicts numeric values. You then used the scikit-learn framework in Python to train and evaluate a regression model.
 
-While scikit-learn is a popular framework for writing code to train regression models, you can also create machine learning solutions for regression using the graphical tools in Microsoft Azure Machine Learning. You can learn more about no-code development of regression models using Azure Machine Learning in the \[Create a Regression Model with [Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/) module.
+While scikit-learn is a popular framework for writing code to train regression models, you can also create machine learning solutions for regression using the graphical tools in Microsoft Azure Machine Learning. You can learn more about no-code development of regression models using Azure Machine Learning in the [Create a Regression Model with Azure Machine Learning designer](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/) module.

@@ -1,0 +1,37 @@
+---
+title: "Train and evaluate classification models"
+output: html_document
+---
+
+This notebook is refer from the Microsoft resources: [Create machine learning models](\https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/).
+
+### Module 3: Train and evaluate classification models
+
+Classification is a kind of machine learning used to categorize items into classes.
+
+### Topic 1: Introduction
+
+Classification is a form of machine learning in which you train a model to predict which category or class, an item belongs to. For example, a health clinic might use diagnostic data such as a patient's height, weight, blood pressure, blood-glucose level, and so on, to predict whether or not the patient is diabetic.
+
+
+### Topic 2: Exercise - Train and evaluate a classification model
+
+Classification is a form of machine learning in which you train a model to predict which category or class, an item belongs to. For example, a health clinic might use diagnostic data such as a patient's height, weight, blood pressure, blood-glucose level, and so on, to predict whether or not the patient is diabetic.
+
+
+
+
+### Topic 3: Knowledge check
+
+
+
+
+
+
+### Topic 4: Summary
+
+
+
+```{r echo=FALSE, eval=FALSE, message=FALSE}
+rmarkdown::render(input = "DS13_ML_classification.Rmd", output_format = "github_document", output_file = "README.md")
+```

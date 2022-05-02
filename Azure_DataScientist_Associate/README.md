@@ -30,6 +30,8 @@ Note of Azure Data Scientist Associate
 
 `DS12_ML_regression` contains notes for Module 12: Train and evaluate regression models.
 
+`DS13_ML_classification` contains notes for Module 13: Train and evaluate classification models
+
 ### Trophy 3: Build AI solutions with Azure Machine Learning
 
 ### Code example
